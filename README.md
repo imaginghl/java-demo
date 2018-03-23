@@ -3,4 +3,6 @@ java simple demo
 
 ## 增加了gradle的demo
 
+## 增加了junit的demo
+
 ## 增加了xml操作的demo
