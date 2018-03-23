@@ -1,0 +1,7 @@
+task hello9 << {
+   println description
+}
+
+hello9.configure {
+   description = "this is hello9"
+}
